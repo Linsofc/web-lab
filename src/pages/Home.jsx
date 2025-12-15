@@ -5,6 +5,7 @@ import ContactCard from '../components/ContactCard';
 import Facilities from '../components/Facilities';
 import Gallery from '../components/Gallery';
 import ScheduleTable from '../components/ScheduleTable';
+import ScrollToTop from '../components/ScrollToTop';
 import adminData from '../data/admin.json';
 
 export default function Home() {
@@ -12,6 +13,7 @@ export default function Home() {
     <div className="min-h-screen bg-gray-50">
       <Header />
       <Hero />
+      <ScrollToTop />
       
       <main>
         {/* Facilities Section */}
