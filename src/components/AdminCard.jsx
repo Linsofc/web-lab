@@ -33,7 +33,7 @@ export default function AdminCard({ admin }) {
 
           {/* Contact Info */}
           <div className="w-full space-y-2 mt-4">
-            {!admin.ishead && (
+            {!admin.isHead && (
               <a 
                 href={`https://wa.me/${admin.whatsapp}`}
                 target="_blank"
