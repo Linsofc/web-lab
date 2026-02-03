@@ -23,7 +23,7 @@ export default function Home() {
         <section id="admin" className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-16">
           <div className="text-center mb-12">
             <h2 className="text-3xl md:text-4xl font-bold bg-gradient-to-r from-blue-600 to-purple-600 bg-clip-text text-transparent mb-4">
-              Tim Lab TMJ
+              Tim Lab JAI
             </h2>
             <p className="text-gray-600 text-lg">
               Kenalan dengan tim kami yang siap membantu Anda
@@ -71,9 +71,9 @@ export default function Home() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
           <div className="grid grid-cols-1 md:grid-cols-3 gap-8 mb-8">
             <div>
-              <h3 className="text-xl font-bold mb-4">Lab TMJ</h3>
+              <h3 className="text-xl font-bold mb-4">Lab JAI</h3>
               <p className="text-blue-100">
-                Laboratorium Teknologi Multimedia dan Jaringan
+                Laboratorium Jaringan dan Inovasi
                 <br />Jurusan Informatika
               </p>
             </div>
@@ -102,7 +102,7 @@ export default function Home() {
           </div>
           <div className="border-t border-white/20 pt-8 text-center">
             <p className="text-blue-100">
-              © {new Date().getFullYear()} Lab TMJ - Semua Hak Dilindungi
+              © {new Date().getFullYear()} Lab JAI - Semua Hak Dilindungi
             </p>
           </div>
         </div>

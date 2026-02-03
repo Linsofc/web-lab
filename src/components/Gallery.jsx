@@ -23,7 +23,7 @@ export default function Gallery() {
             </svg>
           </div>
           <h3 className="text-3xl font-bold bg-gradient-to-r from-blue-600 to-purple-600 bg-clip-text text-transparent mb-2">
-            Galeri Lab TMJ
+            Galeri Lab JAI
           </h3>
           <p className="text-gray-600">Lihat fasilitas dan suasana laboratorium kami</p>
         </div>

@@ -23,17 +23,17 @@ export default function Hero() {
 
           {/* Main Heading */}
           <h1 className="text-4xl md:text-6xl font-extrabold mb-6 animate-fadeIn">
-            Teknologi Multimedia
+            Jaringan
             <br />
             <span className="bg-gradient-to-r from-yellow-300 to-orange-300 bg-clip-text text-transparent">
-              dan Jaringan
+              dan Inovasi
             </span>
           </h1>
 
           {/* Description */}
           <p className="text-xl md:text-2xl text-blue-100 mb-8 max-w-3xl mx-auto animate-fadeIn delay-200">
-            Fasilitas lengkap untuk pembelajaran praktis di bidang multimedia,
-            jaringan komputer, dan teknologi informasi terkini
+            Fasilitas lengkap untuk pembelajaran praktis di bidang jaringan,
+            inovasi komputer, dan teknologi informasi terkini
           </p>
 
           {/* CTA Buttons */}

@@ -8,7 +8,7 @@ export default function ContactCard() {
           </svg>
         </div>
         <h3 className="text-2xl font-bold bg-gradient-to-r from-blue-600 to-purple-600 bg-clip-text text-transparent mb-2">
-          Email Kontak lab TMJ
+          Email Kontak lab JAI
         </h3>
        
       </div>

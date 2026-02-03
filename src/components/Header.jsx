@@ -23,9 +23,9 @@ export default function Header() {
             </div>
             <div>
               <h1 className="text-xl md:text-2xl font-bold bg-gradient-to-r from-blue-600 to-purple-600 bg-clip-text text-transparent">
-                Lab TMJ
+                Lab JAI
               </h1>
-              <p className="text-xs md:text-sm text-gray-600">Teknologi Multimedia & Jaringan</p>
+              <p className="text-xs md:text-sm text-gray-600">Jaringan dan Inovasi</p>
             </div>
           </div>
           
